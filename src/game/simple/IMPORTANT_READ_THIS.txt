@@ -1,0 +1,20 @@
+LITERALLY EVERY LINE OF CODE WITHIN THE 'simple' FOLDER WAS NOT WRITTEN BY ME!! EVERY SINGLE ONE!
+IT IS ALL FANG YIDONG'S WORK!
+FangYidong<fangyidong@yahoo.com.cn>!!!!
+
+Originally, I just used the actual jar file for json simple because there is literally no native functionality for json in Java.
+But, I came across a line in the project brief that said you can't use external jars.
+However, you are allowed to use other people's code so long as you credit them so that you aren't marked for it.
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!(EVERYTHING IN THE 'simple' FOLDER IS NOT MY CODE, DO NOT MARK ME FOR IT!!!!!!!!!)!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+So, I totally just stole the entire library.
+A technicality, maybe, but there just isn't a way to work with JSONs natively on Java.
+Hopefully, it was an unnecessary precaution.
+
+Final Note:
+I DID NOT WRITE ANYTHING IN THE 'simple' FOLDER SERIOUSLY. I DON'T WANT TO HEAR ANYTHING ABOUT PLAGIARISM.
+I DON'T WANT TO HEAR IT.
+I DIDN'T WRITE ANY OF THE 'simple' FOLDER. IT IS ALL THE 'jsonsimple' LIBRARY WRITTEN BY FANG YIDONG.

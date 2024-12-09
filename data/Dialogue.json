@@ -1,0 +1,76 @@
+{
+  "(13.0,36.0)Map1": {
+    "Block1": {"You": ["(You're getting a call.)"]},
+    "Block2": {"Ryan": ["Hey, moron! What are you *doing?!* Get moving! Build **momentum!**", "**Press** **Z** **to** **jump!** We don't have infinite time!"]},
+    "Block3": {"You": ["Wai-", "(He hung up.)"]}
+  },
+  "(109.0,54.0)Map1": {
+    "Block1": {"You":  ["(You're getting a call again.)"]},
+    "Block2": {"Ryan": ["I see you down there, pacing! What, you forgot the basics?!"]},
+    "Block3": {"You": ["I-I-I'm so scared- I don't know wh..."]},
+    "Block4": {"Ryan": ["I told you that you needed to pressure test your parkour. You're a mess!","**Jump** **while** **touching** **a** **wall** **to** **walljump!** Get going, or you'll die!"]},
+    "Block5": {"You": ["(He hung up.)"]}
+  },
+  "(179.0,108.0)Map1": {
+    "Block1": {"You":  ["(You're getting a call again.)"]},
+    "Block2": {"Ryan":  ["You stopped again!"]},
+    "Block3": {"You":  ["*THIS* *IS* *THE* *BIGGEST* *DROP* *I'VE* *EVER* *SEEN!* What am I *supposed* to do?!"]},
+    "Block4": {"Ryan":  ["**Ugh!** **Press** **C** **to** **roll!** Do it just before you hit the ground!"]},
+    "Block5": {"You":  ["(He hung up.)"]}
+  },
+  "(293.0,74.0)Map1": {
+    "Block1": {"You":  ["(You're getting a call again.)"]},
+    "Block2": {"Ryan": ["Come on, you're nearly here!"]},
+    "Block3": {"You": ["How'd you get up this huge wall?!"]},
+    "Block4": {"Ryan": ["*Double* *wall* *boost,* *idiot!*", "Wall jump, then turn away from the wall! Then turn back quickly and you can walljump again!", "Make sure you've got a lot of momentum!"]},
+    "Block5": {"You": ["(He hung up.)"]}
+  },
+  "(41.0,34.0)Map2": {
+    "Block1": {"You": ["(...Another call.)", "Hey, there's someone blocking the way!"]},
+    "Block2": {"Ryan": ["Yeah, there's a few of them. That maniac from before seems to have hired some guns.", "Just knock them out or something!"]},
+    "Block3": {"You": ["But... Won't it hurt them?", "I don't really want to hurt anybody! Besides, I don't know how to fight!"]},
+    "Block4": {"Ryan": ["*Dude.* They're going to **shoot you.**", "**Press** **X** **with** **red** **momentum** **to** **dropkick.**", "I'll be waiting."]},
+    "Block5": {"You": ["(He hung up.)"]}
+  },
+  "(209.0,44.0)Map2": {
+    "Block1": {"You": ["(The calls are beginning to get a little annoying.)", "Can't you let me *concentrate* for one minute?!"]},
+    "Block2": {"Ryan": ["So you don't want to know about the guy with a shotgun just ahead?", "Alright. Good luck."]},
+    "Block3": {"You": ["*Wait-wait-wait!* Sorry!", "(He hung up.)", "Oh man..."]}
+  },
+  "PreCutsceneMap1": {
+    "Block1": {"": ["(General chattering)", "(A loud glass ringing silences the room.)"]},
+    "Block2": {"Man": ["Hello all, and welcome. Thank you for coming here to celebrate the day of my daughter's wedding with me."]},
+    "Block3": {"Ryan": ["(His voice is lowered). Why did we come here again?"]},
+    "Block4": {"You": ["Come on, man. I know you don't like Tony that much but it's his kids wedding!", "Besides, if we didn't come, we'd never hear the end of it."]},
+    "Block5": {"Ryan": ["Yeah, you're right... Good call. I hope it speeds up so-"]},
+    "Block6": {"":  ["(The sound of a window crashing spreads.)", "(There are gasps throughout the room.)"]},
+    "Block7": {"?": ["Oh, it seems I'm a bit late. How improper of me.", "Good evening, everybody! My name is Leonard Williams."]},
+    "Block8": {"Leonard": ["I'll be honest with you all. I've been hired to kill that man up there. Like so."]},
+    "Block9": {"": ["(A gunshot rings out.)", "(A beat passes.)", "(The crowd starts screaming.)"]},
+    "Block10": {"Leonard": ["Of course, now that I've told you all my name, I can't let you go.", "Sorry about this, chaps."]},
+    "Block11": {"": ["(Gunshots begin firing rapidly.)"]},
+    "Block12": {"Ryan": ["**WOW!!** *We* *gotta* *go!!*"]},
+    "Block13": {"You": ["Sh-s-s-shouldn't we try to *help?* Like, call an ambulance, or something?"]},
+    "Block14": {"Ryan": ["*HE* *SHOT* *HIS* *HEAD,* *MAN!* *THAT'S* *NOT* *A* *FLESH* *WOUND!* **LET'S** **GO!**"]},
+    "Block15": {"You": ["*Oh* *my* *god!*"]},
+    "Block16": {"": ["(Two more windows breaking sound out.)"]},
+    "Block17": {"Leonard": ["Oh, I just *love* a good chase."]},
+    "Block18": {"": ["..."]}
+  },
+  "PostCutsceneMap3": {
+    "Block1": {"You": ["I won?!", "(You're getting a call.)", "Ryan?"]},
+    "Block2": {"Leonard": ["Afraid not, my boy."]},
+    "Block3": {"You": ["Le- *What?* How are you calling me if you're right there passed out on the ground?!"]},
+    "Block4": {"Leonard": ["Why don't you ponder that for just a moment?"]},
+    "Block5": {"": ["(A beat passes.)"]},
+    "Block6": {"You": ["Oh... *Oh,* **NO!**"]},
+    "Block7": {"": ["(You hear a distant bang, and your vision fades to black.)"]}
+  },
+  "(15.0,22.0)Map3": {
+    "Block1": {"You": ["(You're getting a call.)","Ryan! Will you *stop* calling me for **one** **second!**"]},
+    "Block2": {"?": ["Oh, my."]},
+    "Block3": {"You": ["Wh-? Who are you?", "Wait, your voice..."]},
+    "Block4": {"Leonard": ["I'm afraid so.", "I'm waiting just ahead. Why don't you come and meet me? Maybe I'll even spare your friend.", "(He hung up.)"]},
+    "Block5": {"You": ["What?!", "Oh man...!"]}
+  }
+}
